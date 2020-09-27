@@ -14,10 +14,6 @@
 	<name>Converter</name>
 	<description>Simple converter that demonstrates the MVC pattern</description>
 
-	<properties>
-		<java.version>11</java.version>
-	</properties>
-
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>

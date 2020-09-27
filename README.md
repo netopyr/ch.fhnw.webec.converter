@@ -1,5 +1,4 @@
 # Converter
-Template repository for the converter assignment
 Simple converter that demonstrates the MVC pattern
 
 ## Assignment 1
